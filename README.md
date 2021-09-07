@@ -1,5 +1,4 @@
 # ひぐち小児科・小児外科  
-### higuchi-shounika.github.io 
 ![医院外観](iingaikannS.JPG)
 ## 医院情報  
 ***  
@@ -90,4 +89,6 @@ ___
 [https://higuchi-shounika.com/](https://higuchi-shounika.com)  
   
 ***  
+<https://higuchi-shounika.com/>  
+`https://higuchi-shounika.com`  
   
